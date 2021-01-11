@@ -10,3 +10,16 @@ The second way is that  you send us the mobile hard disk which we will copy the 
 You need to explain the way you choose in your email.
 
 Thank you very much for your cooperation!
+
+# Protocol
+
+The databases include surface fingerprint/internal fingerprint/sweat gland (pore). To access the databases, the following rules you need to agree to:
+
+1、I agree to not share any part of this data or any reproduction publicly
+2、I agree to not use any part of this data for commercial activity
+
+
+
+
+Signature：
+Date：
